@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
-  - @(#)createPage.svg
-  - Copyright © 2022 The authors and contributors of JHotDraw. MIT License.
-  -->
-
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" height="22" version="1.2" viewBox="0 0 22 22" width="22">
-    <defs/>
-    <g>
-        <g id="content">
-            <polygon fill="#ffffff" id="polygon2" points="5,3 13,3 17,7.266666666666666 17,19 5,19" stroke="#008b8b"
-                     stroke-alignment="inner" stroke-width="2"/>
-            <polyline fill="none" id="polyline3" points="12.5,4 12.5,8 16.5,8" stroke="#008b8b"/>
-            <polygon fill="#000000" id="polygon6" points="55,47 60,58 56.5,57 56.5,62 53.5,62 53.5,57 50,58"
-                     stroke="#ffffff"
-                     transform="translate(0,-44), matrix(0.9238795325112868,-0.38268343236508956,0.38268343236508956,0.9238795325112868,-61.669621352018154,47.19615425821479)"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" baseProfile="tiny" version="1.2" viewBox="0 0 22 22"><g><g id="content"><polygon id="polygon2" fill="#fff" stroke="#008b8b" stroke-alignment="inner" stroke-width="2" points="5 3 13 3 17 7.267 17 19 5 19"/><polyline id="polyline3" fill="none" stroke="#008b8b" points="12.5 4 12.5 8 16.5 8"/><polygon id="polygon6" fill="#000" stroke="#fff" points="55 47 60 58 56.5 57 56.5 62 53.5 62 53.5 57 50 58" transform="translate(0,-44), matrix(0.9238795325112868,-0.38268343236508956,0.38268343236508956,0.9238795325112868,-61.669621352018154,47.19615425821479)"/></g></g></svg>
