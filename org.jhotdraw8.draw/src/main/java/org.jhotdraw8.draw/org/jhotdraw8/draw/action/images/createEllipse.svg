@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
-  - @(#)createEllipse.svg
-  - Copyright © 2022 The authors and contributors of JHotDraw. MIT License.
-  -->
-
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" height="22" version="1.2" viewBox="0 0 22 22" width="22">
-    <defs/>
-    <g>
-        <g id="content">
-            <ellipse cx="11" cy="11" fill="#ffffff" id="ellipse2" rx="6.5" ry="6.5" stroke="#000000" stroke-width="2"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" baseProfile="tiny" version="1.2" viewBox="0 0 22 22"><g><g id="content"><ellipse id="ellipse2" cx="11" cy="11" fill="#fff" stroke="#000" stroke-width="2" rx="6.5" ry="6.5"/></g></g></svg>
